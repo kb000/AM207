@@ -2,7 +2,7 @@
 Class final project
 
 # Abstract
-TODO
+The Hubway Bicycle share system serves riders in the urban core and near suburbs of Boston.  We'd like to discover something about the riders who use the system.  In 2013, the service providers released a dataset which we will analyze with respect to historical weather data, in order to explore the validity of different modeling hypotheses.  In brief, we believe that ridership may be composed of different constituencies, commuters and joyriders, which are affected differently by varying weather conditions.
 
 ## Where is your data coming from?
 Hubway released data: [http://hubwaydatachallenge.org/], and NOAA publishes data on-demand: [https://www.ncdc.noaa.gov/cdo-web/]
